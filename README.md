@@ -33,7 +33,7 @@ Prerequisites
 # Installation
 
 1. Clone the repository:
-   - git clone https://github.com/bcolindres/banking-app.git
+   - git clone https://github.com/bcolindres/Bad-Banking-Updated
    - cd banking-app
 
 2. Install backend dependencies:
@@ -55,7 +55,7 @@ Prerequisites
 
 2. Start the frontend server:
    - cd ../frontend
-  - npm start
+   - npm start
 
 3. Open your browser and navigate to:
    - http://localhost:3000
