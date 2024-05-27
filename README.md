@@ -2,6 +2,9 @@
 
 A simple banking application built with Express, MongoDB, and React. This app allows users to create accounts, deposit and withdraw money, and view their balance and account information.
 
+
+
+
 # Table of Contents
 - Features
 - Technologies Used
