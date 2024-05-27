@@ -65,6 +65,7 @@ Prerequisites
 
 # Usage
 - Navigate to the homepage and create a new account.
+- Login with your credentials.
 - Use the navigation bar to deposit, withdraw, and check your balance.
 
 # API Endpoints
@@ -89,6 +90,7 @@ Login:
 - NavBar: The navigation bar component.
 - Home: The home page component.
 - CreateAccount: Component to create a new account.
+- Login: Component to login to an existing account.
 - Deposit: Component to deposit money.
 - Withdraw: Component to withdraw money.
 - Balance: Component to check account balance.
